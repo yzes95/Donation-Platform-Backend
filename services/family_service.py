@@ -1,4 +1,4 @@
-"""Family case management business logic."""
 class FamilyService:
-    """Handles family creation, field researcher notes, and verification state transitions."""
+    """Family case management business logic."""
+    # TODO: Implement family creation and field researcher verification workflows
     pass

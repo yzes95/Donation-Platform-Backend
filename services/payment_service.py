@@ -1,4 +1,4 @@
-"""Payment Gateway abstraction service."""
 class PaymentService:
-    """Handles InstaPay IPN reconciliation, Fawry payments, and Card processing."""
+    """Payment Gateway processing logic."""
+    # TODO: Implement InstaPay IPN, Fawry, Vodafone Cash, and Card verification
     pass
